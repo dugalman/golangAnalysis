@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="379px" preserveAspectRatio="none" style="width:470px;height:379px;" version="1.1" viewBox="0 0 470 379" width="470px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="440" x="18" y="16.708">https://www.github.com/dugalman/golanganalysis</text><!--MD5=[f9245fa6b4e30e2c5927763773974748]
+cluster human--><polygon fill="#FFFFFF" points="17,36.9531,76,36.9531,83,59.25,177,59.25,177,279.9531,17,279.9531,17,36.9531" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="17" x2="83" y1="59.25" y2="59.25"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="53" x="21" y="51.9482">human</text><!--MD5=[5957a203c4a1af56bf9e99734cade385]
+cluster vehicle--><polygon fill="#FFFFFF" points="299,36.9531,361,36.9531,368,59.25,447,59.25,447,279.9531,299,279.9531,299,36.9531" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="299" x2="368" y1="59.25" y2="59.25"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="56" x="303" y="51.9482">vehicle</text><!--MD5=[857233cdc7018b1e8695fe78ce49561f]
+cluster __builtin__--><polygon fill="#FFFFFF" points="196,49.9531,250,49.9531,257,72.25,280,72.25,280,132.9531,196,132.9531,196,49.9531" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="196" x2="257" y1="72.25" y2="72.25"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="48" x="200" y="64.9482">builtin</text><!--MD5=[0ba2dda458648db9e4e953cf910d504b]
+class human.Human--><rect fill="#FEFECE" height="73.6094" id="human.Human" rx="5" ry="5" style="stroke: #A80036; stroke-width: 1.5;" width="144" x="25" y="63.9531"/><ellipse cx="70.75" cy="79.9531" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M66.6719,75.7188 L66.6719,73.5625 L74.0625,73.5625 L74.0625,75.7188 L71.5938,75.7188 L71.5938,83.7969 L74.0625,83.7969 L74.0625,85.9531 L66.6719,85.9531 L66.6719,83.7969 L69.1406,83.7969 L69.1406,75.7188 L66.6719,75.7188 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="44" x="91.25" y="84.1074">Human</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="26" x2="168" y1="95.9531" y2="95.9531"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="26" x2="168" y1="103.9531" y2="103.9531"/><ellipse cx="36" cy="114.9531" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="106" x="45" y="118.1636">Structure() []string</text><ellipse cx="36" cy="127.7578" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="118" x="45" y="130.9683">Performance() string</text><!--MD5=[1735d1c25d21241e229c1296434c48a6]
+class human.Man--><rect fill="#FEFECE" height="73.6094" id="human.Man" rx="5" ry="5" style="stroke: #A80036; stroke-width: 1.5;" width="144" x="25" y="197.9531"/><ellipse cx="79.75" cy="213.9531" fill="#FF7700" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M80.5938,220.7031 L78.1406,220.7031 L78.1406,210.4531 L75,210.4531 L75,208.3125 L83.7344,208.3125 L83.7344,210.4531 L80.5938,210.4531 L80.5938,220.7031 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="26" x="100.25" y="218.1074">Man</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="26" x2="168" y1="229.9531" y2="229.9531"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="26" x2="168" y1="237.9531" y2="237.9531"/><ellipse cx="36" cy="248.9531" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="106" x="45" y="252.1636">Structure() []string</text><ellipse cx="36" cy="261.7578" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="118" x="45" y="264.9683">Performance() string</text><!--MD5=[6f8c82c418c65a894d0de73983b17497]
+class vehicle.Car--><rect fill="#FEFECE" height="73.6094" id="vehicle.Car" rx="5" ry="5" style="stroke: #A80036; stroke-width: 1.5;" width="132" x="307" y="197.9531"/><ellipse cx="358.25" cy="213.9531" fill="#FF7700" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M359.0938,220.7031 L356.6406,220.7031 L356.6406,210.4531 L353.5,210.4531 L353.5,208.3125 L362.2344,208.3125 L362.2344,210.4531 L359.0938,210.4531 L359.0938,220.7031 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="21" x="378.75" y="218.1074">Car</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="308" x2="438" y1="229.9531" y2="229.9531"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="308" x2="438" y1="237.9531" y2="237.9531"/><ellipse cx="318" cy="248.9531" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="106" x="327" y="252.1636">Structure() []string</text><ellipse cx="318" cy="261.7578" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="81" x="327" y="264.9683">Speed() string</text><!--MD5=[829219497c8525c1b698f9f074390dbe]
+class vehicle.Vehicle--><rect fill="#FEFECE" height="73.6094" id="vehicle.Vehicle" rx="5" ry="5" style="stroke: #A80036; stroke-width: 1.5;" width="132" x="307" y="63.9531"/><ellipse cx="346.75" cy="79.9531" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M342.6719,75.7188 L342.6719,73.5625 L350.0625,73.5625 L350.0625,75.7188 L347.5938,75.7188 L347.5938,83.7969 L350.0625,83.7969 L350.0625,85.9531 L342.6719,85.9531 L342.6719,83.7969 L345.1406,83.7969 L345.1406,75.7188 L342.6719,75.7188 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="45" x="366.25" y="84.1074">Vehicle</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="308" x2="438" y1="95.9531" y2="95.9531"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="308" x2="438" y1="103.9531" y2="103.9531"/><ellipse cx="318" cy="114.9531" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="106" x="327" y="118.1636">Structure() []string</text><ellipse cx="318" cy="127.7578" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="81" x="327" y="130.9683">Speed() string</text><!--MD5=[aaadaf5c3ad6e0e0dd8a1e035309d301]
+class __builtin__.string--><rect fill="#FEFECE" height="48" id="__builtin__.string" rx="5" ry="5" style="stroke: #A80036; stroke-width: 1.5;" width="68" x="204" y="76.9531"/><ellipse cx="219" cy="92.9531" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M221.9688,98.5938 Q221.3906,98.8906 220.75,99.0313 Q220.1094,99.1875 219.4063,99.1875 Q216.9063,99.1875 215.5781,97.5469 Q214.2656,95.8906 214.2656,92.7656 Q214.2656,89.6406 215.5781,87.9844 Q216.9063,86.3281 219.4063,86.3281 Q220.1094,86.3281 220.75,86.4844 Q221.4063,86.6406 221.9688,86.9375 L221.9688,89.6563 Q221.3438,89.0781 220.75,88.8125 Q220.1563,88.5313 219.5313,88.5313 Q218.1875,88.5313 217.5,89.6094 Q216.8125,90.6719 216.8125,92.7656 Q216.8125,94.8594 217.5,95.9375 Q218.1875,97 219.5313,97 Q220.1563,97 220.75,96.7344 Q221.3438,96.4531 221.9688,95.875 L221.9688,98.5938 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="36" x="233" y="97.1074">string</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="205" x2="271" y1="108.9531" y2="108.9531"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="205" x2="271" y1="116.9531" y2="116.9531"/><!--MD5=[6eb39e9690f1df7771827c6541a6664b]
+reverse link human.Human to human.Man--><path d="M97,158.4882 C97,171.8132 97,185.648 97,197.8268 " fill="none" id="human.Human&lt;-human.Man" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="90.0001,158.2796,97,138.2796,104.0001,158.2795,90.0001,158.2796" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="76" x="14.2313" y="186.9913">implements</text><!--MD5=[ddec6ad9880b79eecc1994f5bbc11d43]
+reverse link vehicle.Vehicle to vehicle.Car--><path d="M373,158.4882 C373,171.8132 373,185.648 373,197.8268 " fill="none" id="vehicle.Vehicle&lt;-vehicle.Car" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="366.0001,158.2796,373,138.2796,380.0001,158.2795,366.0001,158.2796" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="76" x="379.7688" y="186.9913">implements</text><!--MD5=[25c8937b312928fbb8dfde711096ec0b]
+reverse link __builtin__.string to human.Man--><path d="M208.634,128.8612 C187.6285,148.8239 159.1302,175.9074 136.1856,197.7129 " fill="none" id="__builtin__.string&lt;-human.Man" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><rect fill="#FFFFFF" height="10" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="207.466" y="120.2195"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="45" x="147.1733" y="186.8571">alias of</text><!--MD5=[b06c05b245efd68212ef526caba63c5f]
+reverse link __builtin__.string to vehicle.Car--><path d="M266.3671,129.1101 C286.4544,149.0486 313.6048,175.9979 335.4818,197.7129 " fill="none" id="__builtin__.string&lt;-vehicle.Car" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><rect fill="#FFFFFF" height="10" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="257.4475" y="120.2195"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="45" x="279.7911" y="186.8571">alias of</text><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="158" x="159" y="307.2354">Generated via www.dumels.com</text><image height="60" width="60" x="208" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAACW0lEQVR4Xu2aO1LDMBRFH3/YAR0LoYWKkm9BwV5YDXRQBKhImIFhExlaCgpq/rpRHuM8W4lsyUIWujMHHDt++DiyLJkQ5eTk5OQ4Z04x3xLRBbLXipeWiC4Q7iu+FV8eQT0QXVj4TbGiWPXAGul6UQu/i/UuWaAsHDaQqoK39SkRYchckJaRnI23Jyd8SbrXvFUMCpyOtycp/FF4nXyTLgpX5V8LY1kODZvQCWFc50PFkyd4tBU0dYTxHhsgARm53kTQ2Agj3AxnsUi61vl4WW6vImhshW2DeqjF9/DokoUd00j4uCV2qBxbYex7YsknTQrP2vd3YiwnzC6g3gOVz7qNMPfSdY4JnRb2433ldj6m0W0JP3AAB57YI13vntyE8cmhlqxfxSZ2HGerYvsh6Xq/whiF4FbgKxgluQr7Hlpm4baEJZgPJymMuvgj3GlgmV/jtymdF64iyU+4T+XmXMSUzgoPaLqYKckJrys25MpCggjzwGPfAzzwqBLG6x7pE2wKC6PGLpUHEU2ZEAZyKOYC6pmEr8iul27jmEbCRy2xTeXYCCPYV9YzgZbwSOVJgomgsRW2DfodCNeaHoaMb2HUQ+eWhWOJrTAeyC1ZsEy6SUf9EG+WMPfScjhqgntziNsQNHWEITGk8gP1pvCtKWjqCOPaxLL8t0kT+Pl19MK+gmuXm3/Q/FthXE93pJ+KVPFKCQn3SE8epoETkoQwB+LTwKeflPC0QBjNOgs7pDPCGDrKrxE2AV89/JP7sE1YGAcnJ/EuoF60wjeK55aIMpCWw0Nf5OTk5HQnP5VHM9pzOexnAAAAAElFTkSuQmCC" y="309.5938"/><!--MD5=[e25795697e0c80476eb58c7fda761d8a]
+@startuml
+skinparamlocked shadowing false
+skinparamlocked roundCorner 10
+title https://www.github.com/dugalman/golanganalysis
+namespace human {
+    interface Human  {
+        + Structure() []string
+        + Performance() string
+
+    }
+    class Man << (S,Aquamarine) >> {
+        + Structure() []string
+        + Performance() string
+
+    }
+    class human.Man << (T, #FF7700) >>  {
+    }
+}
+
+"human.Human" <|- - "implements""human.Man"
+
+
+namespace vehicle {
+    class Car << (S,Aquamarine) >> {
+        + Structure() []string
+        + Speed() string
+
+    }
+    interface Vehicle  {
+        + Structure() []string
+        + Speed() string
+
+    }
+    class vehicle.Car << (T, #FF7700) >>  {
+    }
+}
+
+"vehicle.Vehicle" <|- - "implements""vehicle.Car"
+
+
+"__builtin__.string" #.. "alias of""human.Man"
+"__builtin__.string" #.. "alias of""vehicle.Car"
+
+footer  Generated via www.dumels.com\n<img:support_files/svg_placeholders/logo.png{scale=.3}>
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 10:24:54 UTC 2019)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.8+10-post-Debian-1deb10u1
+Operating System: Linux
+Default Encoding: ANSI_X3.4-1968
+Language: en
+Country: US
+--></g></svg>

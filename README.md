@@ -21,3 +21,4 @@ The following will be the directory structure of our application.
     │ └── human
     │ └── human.go
 
+To draw the UML diagrams https://www.dumels.com/ is used, which generates the file "classDiagram.svg"
